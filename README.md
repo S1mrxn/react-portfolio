@@ -1,12 +1,41 @@
-# React + Vite
+# React Portfolio – Simranjot Singh
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a single-page portfolio built with **React** and **Vite**, showcasing my projects, skills, and contact information.
 
-Currently, two official plugins are available:
+## 🚀 Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [View Portfolio on Netlify](https://shiny-alpaca-b095bb.netlify.app)
 
-## Expanding the ESLint configuration
+## 🧠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (Vite)
+- React Router DOM
+- JavaScript (ES6+)
+- HTML5 + CSS3
+- Netlify (Deployment)
+
+## 📁 Project Sections
+
+- **About Me:** A short intro with my background and photo
+- **Portfolio:** 6 real projects, each with a live link and GitHub repo
+- **Contact:** A validated form for name, email, and message
+- **Resume:** Downloadable PDF + list of proficiencies
+
+## 📷 Screenshot
+
+![Portfolio Screenshot](./src/assets/project1.png)
+
+## 📄 Resume
+
+Download my resume [here](./public/resume.pdf)
+
+## 📬 Contact Me
+
+If you’d like to work together or say hi, feel free to use the Contact form on the site!
+
+---
+
+## 📌 Author
+
+**Simranjot Singh**  
+React Developer | Student | Builder 💻
