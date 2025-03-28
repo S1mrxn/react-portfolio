@@ -35,6 +35,11 @@ If you’d like to work together or say hi, feel free to use the Contact form on
 
 ---
 
+## 🚀 Live Site
+
+👉 [View Portfolio on Netlify](https://shiny-alpaca-b095bb.netlify.app)
+
+
 ## 📌 Author
 
 **Simranjot Singh**  
